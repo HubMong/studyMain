@@ -29,6 +29,7 @@
 
 ## 🌐 Web
 - [대우능력 - 웹 개발 연락처 프로젝트](https://github.com/HubMong/phone/tree/main)
+- [웹개발 연락처 프로젝트 후 학습노트](https://velog.io/@m0ng/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%99%EC%8A%B5-%EB%85%B8%ED%8A%B8)
 
 
 ## 🧰 도구
