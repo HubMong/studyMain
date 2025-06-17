@@ -57,7 +57,7 @@
 </details>
 
 <details>
-<summary><strong>🌐 Web 개발</strong></summary>
+<summary><strong>🌐 Web </strong></summary>
 
 | 주제 | 링크 |
 |------|------|
