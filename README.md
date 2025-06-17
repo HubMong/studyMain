@@ -6,6 +6,9 @@
 - [어셈블리 기초 정리](https://velog.io/@m0ng/어셈블리어-주요-명령어-정리)
 - [IA-32 레지스터 정리](https://velog.io/@m0ng/IA-32-스택-구조-정리)
 - [리버싱 - PE,스택,API Hook 개념](https://velog.io/@m0ng/%EB%A6%AC%EB%B2%84%EC%8B%B1-PE%EC%8A%A4%ED%83%9DAPI-Hook-%EA%B0%9C%EB%85%90)
+- [악성코드 분석 기초](https://velog.io/@m0ng/%EB%A6%AC%EB%B2%84%EC%8B%B1-%EC%95%85%EC%84%B1%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88)
+- [패킹/언패킹](https://velog.io/@m0ng/%EB%A6%AC%EB%B2%84%EC%8B%B1-packingunpacking)
+- [디버깅](https://velog.io/@m0ng/%EB%A6%AC%EB%B2%84%EC%8B%B1-%EB%94%94%EB%B2%84%EA%B9%85)
 
 ## ⚙ CTF
 
