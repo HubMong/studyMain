@@ -52,15 +52,16 @@
 ## 🧰 사용 도구 정리
 
 ### 🛠 IDA
-
-- [IDA로 DreamHack 분석](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
+| 주제 | 링크 |
+|------|------|
+|[IDA로 DreamHack 분석](https://velog.io/@m0ng/Dreamhack-rev-basic-3)|
 
 ### 🔐 Burp Suite
-
-- [설치 및 설정](https://velog.io/@m0ng/Burp-Suite-설치)
-- [Cookie 문제 풀이](https://velog.io/@m0ng/Burp-Suite-cookies-문제-풀이)
+| 주제 | 링크 |
+|[설치 및 설정](https://velog.io/@m0ng/Burp-Suite-설치)|
+|[Cookie 문제 풀이](https://velog.io/@m0ng/Burp-Suite-cookies-문제-풀이)|
 
 ### 📡 Wireshark
-
-- [필터링 기초](https://velog.io/@m0ng/Wireshark-필터링-기초-학습노트)
+| 주제 | 링크 |
+|[필터링 기초](https://velog.io/@m0ng/Wireshark-필터링-기초-학습노트)|
 
