@@ -43,7 +43,8 @@
 |------|------|
 | 계산기 프로젝트 (WinForms) | [보기](https://velog.io/@m0ng/C-WinForms-계산기-만들기) |
 | 기본 문법 학습노트 | [보기](https://velog.io/@m0ng/C-기본-문법-학습노트) |
-
+| 클래스와 객체 / 캡슐화와 접근 제어자 | [보기](https://velog.io/@m0ng/c-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-%EC%BA%A1%EC%8A%90%ED%99%94%EC%99%80-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90)
+| 상속과 다형성 / 인터페이스와 추상 클래스 | [보기](https://velog.io/@m0ng/c-%EC%83%81%EC%86%8D%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4)
 
 ## 🌐 Web 개발
 
