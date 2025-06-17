@@ -5,13 +5,14 @@
 
 - [어셈블리 기초 정리](https://velog.io/@m0ng/어셈블리어-주요-명령어-정리)
 - [IA-32 레지스터 정리](https://velog.io/@m0ng/IA-32-스택-구조-정리)
-- [rev-basic-2 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
-- [rev-basic-3 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
-- [rev-basic-4 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-4)
+- [리버싱 - PE,스택,API Hook 개념](https://velog.io/@m0ng/%EB%A6%AC%EB%B2%84%EC%8B%B1-PE%EC%8A%A4%ED%83%9DAPI-Hook-%EA%B0%9C%EB%85%90)
 
 ## ⚙ CTF
 
 - [DreamHack Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-문제-풀이)
+- [rev-basic-2 풀이](https://velog.io/@m0ng/DreamHack-rev-basic-2)
+- [rev-basic-3 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
+- [rev-basic-4 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-4)
 
 
 ## ☕ Java
