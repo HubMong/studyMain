@@ -1,6 +1,7 @@
 # 💻 기술 스택 정리
 
-## ⚙️ Reverse Engineering
+<details>
+<summary><strong>⚙️ Reverse Engineering</strong></summary>
 
 | 주제 | 링크 |
 |------|------|
@@ -11,8 +12,10 @@
 | 패킹 / 언패킹 | [보기](https://velog.io/@m0ng/%EB%A6%AC%EB%B2%84%EC%8B%B1-packingunpacking) |
 | 디버깅 | [보기](https://velog.io/@m0ng/%EB%A6%AC%EB%B2%84%EC%8B%B1-%EB%94%94%EB%B2%84%EA%B9%85) |
 
+</details>
 
-## 🧠 CTF 문제 풀이
+<details>
+<summary><strong>🧠 CTF 문제 풀이</strong></summary>
 
 | 문제 | 링크 |
 |------|------|
@@ -22,8 +25,10 @@
 | rev-basic-3 | [보기](https://velog.io/@m0ng/Dreamhack-rev-basic-3) |
 | rev-basic-4 | [보기](https://velog.io/@m0ng/Dreamhack-rev-basic-4) |
 
+</details>
 
-## ☕ Java 학습 노트
+<details>
+<summary><strong>☕ Java 학습 노트</strong></summary>
 
 | 주제 | 링크 |
 |------|------|
@@ -36,25 +41,32 @@
 | 멀티스레딩과 동기화 | [보기](https://velog.io/@m0ng/Java-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9%EA%B3%BC-%EB%8F%99%EA%B8%B0%ED%99%94) |
 | 입출력 (I/O) / 람다식 | [보기](https://velog.io/@m0ng/Java-%EC%9E%85%EC%B6%9C%EB%A0%A5-IO-%EB%9E%8C%EB%8B%A4%EC%8B%9D) |
 
+</details>
 
-## 🟣 C# 학습 노트
+<details>
+<summary><strong>🟣 C# 학습 노트</strong></summary>
 
 | 주제 | 링크 |
 |------|------|
 | 계산기 프로젝트 (WinForms) | [보기](https://velog.io/@m0ng/C-WinForms-계산기-만들기) |
 | 기본 문법 학습노트 | [보기](https://velog.io/@m0ng/C-기본-문법-학습노트) |
-| 클래스와 객체 / 캡슐화와 접근 제어자 | [보기](https://velog.io/@m0ng/c-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-%EC%BA%A1%EC%8A%90%ED%99%94%EC%99%80-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90)
-| 상속과 다형성 / 인터페이스와 추상 클래스 | [보기](https://velog.io/@m0ng/c-%EC%83%81%EC%86%8D%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4)
+| 클래스와 객체 / 캡슐화와 접근 제어자 | [보기](https://velog.io/@m0ng/c-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EA%B0%9D%EC%B2%B4-%EC%BA%A1%EC%8A%90%ED%99%94%EC%99%80-%EC%A0%91%EA%B7%BC-%EC%A0%9C%EC%96%B4%EC%9E%90) |
+| 상속과 다형성 / 인터페이스와 추상 클래스 | [보기](https://velog.io/@m0ng/c-%EC%83%81%EC%86%8D%EA%B3%BC-%EB%8B%A4%ED%98%95%EC%84%B1-%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%EC%99%80-%EC%B6%94%EC%83%81-%ED%81%B4%EB%9E%98%EC%8A%A4) |
 
-## 🌐 Web 개발
+</details>
+
+<details>
+<summary><strong>🌐 Web 개발</strong></summary>
 
 | 주제 | 링크 |
 |------|------|
 | 대우능력 - 연락처 프로젝트 (GitHub) | [보기](https://github.com/HubMong/phone/tree/main) |
 | 프로젝트 학습 정리 노트 | [보기](https://velog.io/@m0ng/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%ED%95%99%EC%8A%B5-%EB%85%B8%ED%8A%B8) |
 
+</details>
 
-## 🧰 사용 도구 정리
+<details>
+<summary><strong>🧰 사용 도구 정리</strong></summary>
 
 ### 🛠 IDA
 | 주제 | 링크 |
@@ -71,3 +83,4 @@
 |------|------|
 | 필터링 기초 | [보기](https://velog.io/@m0ng/Wireshark-필터링-기초-학습노트) |
 
+</details>
