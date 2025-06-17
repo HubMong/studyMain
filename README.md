@@ -27,7 +27,7 @@
 - [C# 계산기 프로젝트 (WinForms)](https://velog.io/@m0ng/C-WinForms-계산기-만들기)
 - [C# 기본 문법](https://velog.io/@m0ng/C-기본-문법-학습노트)
 
-## 🛠️ Web
+## 🌐 Web
 - []()
 - 
 
@@ -37,7 +37,7 @@
 ### 🛠️ IDA
 - [IDA로 DreamHack 문제 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
 
-### 🧪 Burp Suite
+### 🌐 Burp Suite
 - [기본 세팅](https://velog.io/@m0ng/Burp-Suite-설치)
 - [DreamHack 문제 풀이](https://velog.io/@m0ng/Burp-Suite-cookies-문제-풀이)
 
