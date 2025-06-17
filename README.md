@@ -1,6 +1,5 @@
 # 💻 기술 스택 정리
 
----
 
 ## ⚙ Reversing
 
@@ -10,13 +9,10 @@
 - [rev-basic-3 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
 - [rev-basic-4 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-4)
 
----
-
 ## ⚙ Hacking
 
 - [DreamHack Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-문제-풀이)
 
----
 
 ## ☕ Java
 
@@ -24,14 +20,14 @@
 - [Java 생성자 개념](https://velog.io/@m0ng/Java-Note-생성자)
 - [오버로딩/오버라이딩](https://velog.io/@m0ng/Java-학습노트-메소드-오버로딩)
 
----
+
 
 ## 🟣 C#
 
 - [C# 계산기 프로젝트 (WinForms)](https://velog.io/@m0ng/C-WinForms-계산기-만들기)
 - [C# 기본 문법](https://velog.io/@m0ng/C-기본-문법-학습노트)
 
----
+
 
 ## 🧰 도구
 
