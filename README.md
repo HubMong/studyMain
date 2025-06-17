@@ -9,7 +9,7 @@
 - [rev-basic-3 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-3)
 - [rev-basic-4 풀이](https://velog.io/@m0ng/Dreamhack-rev-basic-4)
 
-## ⚙ Hacking
+## ⚙ CTF DreamHack
 
 - [DreamHack Cookies 문제 풀이](https://velog.io/@m0ng/DreamHack-Cookie-문제-풀이)
 
