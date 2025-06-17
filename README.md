@@ -16,9 +16,10 @@
 
 ## ☕ Java
 
-- [Java 기초 정리](https://velog.io/@m0ng/Java-정리)
+- [Java 기본자료형/참조자료형/매개변수](https://velog.io/@m0ng/Java-정리)
 - [Java 생성자 개념](https://velog.io/@m0ng/Java-Note-생성자)
 - [오버로딩/오버라이딩](https://velog.io/@m0ng/Java-학습노트-메소드-오버로딩)
+- [클래스 접근제어자/상속 추상화 인터페이스](https://velog.io/@m0ng/Java-%ED%81%B4%EB%9E%98%EC%8A%A4%EA%B0%9D%EC%B2%B4%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90%EC%83%81%EC%86%8D%EC%B6%94%EC%83%81%ED%99%94%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
 
 
 
