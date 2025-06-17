@@ -32,6 +32,9 @@
 | 오버로딩 / 오버라이딩 | [보기](https://velog.io/@m0ng/Java-학습노트-메소드-오버로딩) |
 | 클래스, 상속, 인터페이스 | [보기](https://velog.io/@m0ng/Java-%ED%81%B4%EB%9E%98%EC%8A%A4%EA%B0%9D%EC%B2%B4%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90%EC%83%81%EC%86%8D%EC%B6%94%EC%83%81%ED%99%94%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4) |
 | 예외처리 / 컬렉션 | [보기](https://velog.io/@m0ng/Java-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC%EC%BB%AC%EB%A0%89%EC%85%98%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC) |
+| List, Set, Map 비교 및 구현체 분석 | [보기](https://velog.io/@m0ng/Java-List-Set-Map-%EB%B9%84%EA%B5%90-%EB%B0%8F-%EA%B5%AC%ED%98%84%EC%B2%B4-%EB%B6%84%EC%84%9D) |
+| 멀티스레딩과 동기화 | [보기](https://velog.io/@m0ng/Java-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9%EA%B3%BC-%EB%8F%99%EA%B8%B0%ED%99%94) |
+| 입출력 (I/O) / 람다식 | [보기](https://velog.io/@m0ng/Java-%EC%9E%85%EC%B6%9C%EB%A0%A5-IO-%EB%9E%8C%EB%8B%A4%EC%8B%9D) |
 
 
 ## 🟣 C# 학습 노트
